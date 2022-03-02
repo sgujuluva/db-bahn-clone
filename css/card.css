@@ -1,0 +1,15 @@
+.card{
+    grid-area: card;
+ 
+    }
+    .card article{      
+         padding:1.2rem; 
+          }
+.card div:first-child img{
+        height:30%;
+        width:100%;
+    }
+.card div:last-child{
+        height:20%;
+        font-size: 0.8rem;
+    }
