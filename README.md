@@ -6,6 +6,7 @@
 ---
 
 ![Screenshot from Project](./img/db-landing-pg.png)
+![Screenshot from Project](./img/container-page-footer.png)
 
 #### Navigation
 
