@@ -16,7 +16,7 @@
   Flex, grid layout, nth child and many more properties_
 
 - Contact
-  - _sanghee04Qgmail.com_
+  - _sanghee04@gmail.com_
   - _GitHub Username: sgujuluva_
   
 ---
