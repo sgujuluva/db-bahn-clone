@@ -31,13 +31,13 @@ This Project is about to replicate the website using HTML and CSS.
 
 - [x] _HTML5_
 - [x] _CSS3_
-- [] _SASS_
-- [] _SCSS_
-- [] _JavaScript_
+- [ ] _SASS_
+- [ ] _SCSS_
+- [ ] _JavaScript_
 - [ ] _React_
 - [ ] _Bootstrap_
-- [] _npm_
-- [ ] _..._
+- [ ] _npm_
+
 
 ---
 
